@@ -1,9 +1,9 @@
 {
     "server": "0.0.0.0",
-    "server_port": 9000,
+    "server_port": 3000,
     "method": "aes-256-gcm",
     "timeout": 300,
-    "password": "qwert321",
+    "password": "bing",
     "fast_open": false,
     "nameserver": "8.8.8.8",
     "mode": "tcp_only",
